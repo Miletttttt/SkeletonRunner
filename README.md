@@ -1,0 +1,3 @@
+I made ts while bored
+
+and ignore the skeleton.png in the files, i was just testing some
